@@ -20,3 +20,18 @@ My primary areas of interests in research mainly include:
 1. Social Network Analysis
 1. Data Mining, especially Text Mining and Graph Mining
 1. Machine Learning
+
+Contact
+======
+Address	
+
+SEIEE Buildings 1-432,
+
+800 Dongchuan Road, 
+
+Shanghai, 200240 China. 
+
+Email	
+
+hxin18[at]gmail.com,
+michael_huangxin[at]sjtu.edu.cn
