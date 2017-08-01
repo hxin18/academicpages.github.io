@@ -23,13 +23,11 @@ My primary areas of interests in research mainly include:
 
 Contact
 ======
-
-SEIEE Buildings 1-432,
-
-800 Dongchuan Road, 
-
+Address  
+SEIEE Buildings 1-432,  
+800 Dongchuan Road,  
 Shanghai, 200240 China. 
 
-
-hxin18[at]gmail.com,
+Email  
+hxin18[at]gmail.com,  
 michael_huangxin[at]sjtu.edu.cn
