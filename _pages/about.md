@@ -23,7 +23,6 @@ My primary areas of interests in research mainly include:
 
 Contact
 ======
-Address	
 
 SEIEE Buildings 1-432,
 
@@ -31,7 +30,6 @@ SEIEE Buildings 1-432,
 
 Shanghai, 200240 China. 
 
-Email	
 
 hxin18[at]gmail.com,
 michael_huangxin[at]sjtu.edu.cn
