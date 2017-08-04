@@ -1,19 +1,18 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "academic"
+permalink: /academic/
 author_profile: true
 redirect_from:
-  - /resume
+  - /academic
 ---
 
 {% include base_path %}
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Information Engineering Shanghai Jiao Tong University, 2016
+  * Overall GPA:84.7, Major GPA:89.2
 
 Work experience
 ======
