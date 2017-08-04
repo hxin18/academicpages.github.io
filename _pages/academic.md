@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "academic"
+title: "Education"
 permalink: /academic/
 author_profile: true
 redirect_from:
@@ -9,50 +9,44 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Information Engineering Shanghai Jiao Tong University, 2016
+* B.S. in Information Engineering Shanghai Jiao Tong University, 2012~2016
   * Overall GPA:84.7, Major GPA:89.2
+* M.Eng in Information Engineering Shanghai Jiao Tong University, 2016~
+  * Overall GPA:3.73/4
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Courses
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Spring 2017(Graduate): 
+  * Data Mining: A+
+  * Deep Learning: A
+  * Queueing Theory: A
+  * Embedding System: A-
+  * Wireless Sensor Network: A-
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Fall 2016(Graduate): 
+  * Cellular Network: A+
+  * Web-application: A
+  * Statistics: A
+  * Mining Massive Data: A-
+  * Databases: A-
+  * IP Network: A-
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Academic Year 2015~2016: 
+  * Computer Architecture: 98/100
+  * Graphical Language: 92/100
+  * Advanced Function Analysis: 89/100 
+  * Introduction to Finite Field: 90/100
+  * Codage and Modulation: 89/100
+  * Finte Field II: 85/100
+  * Signal Processing I: 93/100
+  * Signal Processing II: 82/100
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Academic Year 2014~2015:
+  * Operating System: 96/100
+  * Data Structure: 86/100
+  * Optimization: 86/100 
+  * C Programming: 98/100
+  * Algorithm: 95/100
+  * Probability & Statistics: 84/100
+  * Diffenential Geometry: 91/100
