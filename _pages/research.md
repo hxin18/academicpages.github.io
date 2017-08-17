@@ -27,8 +27,8 @@ We have made such contributions:
 * We provide a topic modelling based model to capture the timestamps and contents of topics.
 * We visualised the evolution map of topic with gephi
 * Our model can also be applied to information retrival of academic papers.
-An Interactive Topic Model for academic recommendation
 
+An Interactive Topic Model for academic recommendation
 ============
 I worked to construct a topic-based model to recommend scientific publications.
 
