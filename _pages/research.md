@@ -27,23 +27,16 @@ We have made such contributions:
 * We significantly increase the computational efficiency by adopting similar mechanism like SparseLDA. 
 * We propose a crowdsourcing framework for recommending publications and further modify our interactive topic model     to a collaborative version. In this scenario, users with similar interests can fix a shared prior tree, which promotes article recommendation in related topics.
 <div class="resume-item">
-    <h3 class="resume-item-title">An Interactive Topic Model for academic recommendation</h3>
     <table>
     <tbody>
     <tr>
-        <td><p>I worked to construct a topic-based model to recommend scientific publications.</p>
-	<p>The objectives of this system are mainly:</p>
-          <ul class="resume-item-list">
-            <li>We provide an interactive topic model with tree-structured priors and encode user feedback into the prior tree.</li>
-            <li>We significantly increase the computational efficiency by adopting similar mechanism like SparseLDA. </li>
-            <li>We propose a crowdsourcing framework for recommending publications and further modify our interactive topic model to a collaborative version. In this scenario, users with similar interests can fix a shared prior tree, which promotes article recommendation in related topics.</li>
-          </ul>
+        <td style="width:340px>
+		<img src="/images/itm2.png" style="display:block; width:340px">
        	</td>
         <td style="width:340px">
-        	<img src="/images/itm1.png"  style="display:block; width:90%">
+        	<img src="/images/itm1.png"  style="display:block; width:340px">
         </td>
          </tr>
   </tbody>
   </table>
-  <tr><img src="/images/itm2.png" style="display:block; width:90%"></tr>
 </div>
