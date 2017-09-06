@@ -26,10 +26,10 @@ We have made such contributions:
           	<tbody>
           		<tr>
           			<td>
-                  <img src="/images/evo_p1.png" style="display:block; margin-left:15px; width:340px">
+                  <img src="/images/evo_p1.png" style="display:block; margin-left:15px; width:80%">
           			</td>
           			<td style="width:340px">
-          			<img src="/images/model.png" style="display:block; margin-left:15px; width:340px">
+          			<img src="/images/model.png" style="display:block; margin-left:15px; width:80%">
           			</td>
           		</tr>
           	</tbody>
@@ -47,10 +47,10 @@ We have made such contributions:
           	<tbody>
           		<tr>
           			<td>
-                  <img src="/images/itm2.png" style="display:block; margin-left:15px; width:340px">
+                  <img src="/images/itm2.png" style="display:block; margin-left:15px; width:80%">
           			</td>
           			<td style="width:340px">
-          			<img src="/images/itm1.png" style="display:block; margin-left:15px; width:340px">
+          			<img src="/images/itm1.png" style="display:block; margin-left:15px; width:80%">
           			</td>
           		</tr>
           	</tbody>
