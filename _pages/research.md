@@ -31,7 +31,7 @@ We have made such contributions:
     <table>
     <tbody>
     <tr>
-        <td style="width:900px>
+        <td style="width:900px">
 		<img src="/images/itm1.png" style=" width:900px">
        	</td>
         <td style="width:340px">
