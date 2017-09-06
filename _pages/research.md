@@ -27,7 +27,7 @@ We have made such contributions:
 * We significantly increase the computational efficiency by adopting similar mechanism like SparseLDA. 
 * We propose a crowdsourcing framework for recommending publications and further modify our interactive topic model     to a collaborative version. In this scenario, users with similar interests can fix a shared prior tree, which promotes article recommendation in related topics.
 
-<div class="resume-item">
+<div>
     <table>
     <tbody>
     <tr>
