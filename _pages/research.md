@@ -41,7 +41,7 @@ We have made such contributions:
           </ul>
           			</td>
                 	<td style="width:340px">
-          			<img src="https://github.com/hxin18/hxin18.github.io/blob/master/images/itm1.png" style="display:block; margin-left:15px; width:340px">
+          			<img src="/images/itm1.png" style="display:block; margin-left:15px; width:340px">
           			</td>
           		</tr>
           	</tbody>
