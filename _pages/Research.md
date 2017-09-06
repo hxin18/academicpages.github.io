@@ -22,6 +22,19 @@ We have made such contributions:
 * We provide a topic modelling based model to capture the timestamps and contents of topics.
 * We visualised the evolution map of topic with gephi
 * Our model can also be applied to information retrival of academic papers.
+<table>
+          	<tbody>
+          		<tr>
+          			<td>
+                  <img src="/images/evo_p1.png" style="display:block; margin-left:15px; width:340px">
+          			</td>
+          			<td style="width:340px">
+          			<img src="/images/model.png" style="display:block; margin-left:15px; width:340px">
+          			</td>
+          		</tr>
+          	</tbody>
+          </table>
+
 
 An Interactive Topic Model for academic recommendation
 ============
