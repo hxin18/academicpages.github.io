@@ -32,17 +32,16 @@ We have made such contributions:
           <table>
           	<tbody>
           		<tr>
-          			<td><p>I am currently developing a topic-based search engine to improve academic search experience.<p>
-
-		<p>The objectives of this system are mainly:<p>
+          			<td><p>I am currently developing a topic-based search engine to improve academic search experience.</p>
+		<p>The objectives of this system are mainly:</p>
           <ul class="resume-item-list">
             <li>Return paper search results based on both word-level and topic-level similarity with user’s query.</li>
             <li>Rank papers according to their influence scores as well as their relevance to the query. </li>
             <li>Visualize the topic distribution of each paper and topic evolution among the whole corpus.</li>
           </ul>
           			</td>
-          			<td style="width:340px">
-          			<img src="/images/se.jpg" style="display:block; margin-left:15px; width:340px">
+                	<td style="width:340px">
+          			<img src="https://github.com/hxin18/hxin18.github.io/blob/master/images/itm1.png" style="display:block; margin-left:15px; width:340px">
           			</td>
           		</tr>
           	</tbody>
