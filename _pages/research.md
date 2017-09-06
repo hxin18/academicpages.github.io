@@ -23,11 +23,11 @@ We have made such contributions:
     <table>
     <tbody>
     <tr>
-	<td style="width:340px">
-        	<img src="/images/model.png"  style=" width:340px">
+	<td>
+        	<img src="/images/model.png">
         </td>
-        <td style="width:600px">
-		<img src="/images/evo_p1.png" style=" width:600px">
+        <td>
+		<img src="/images/evo_p1.png">
        	</td>
          </tr>
   </tbody>
@@ -45,17 +45,4 @@ We have made such contributions:
 * We significantly increase the computational efficiency by adopting similar mechanism like SparseLDA. 
 * We propose a crowdsourcing framework for recommending publications and further modify our interactive topic model     to a collaborative version. In this scenario, users with similar interests can fix a shared prior tree, which promotes article recommendation in related topics.
 
-<div>
-    <table>
-    <tbody>
-    <tr>
-        <td style="width:900px">
-		<img src="/images/itm2.png" style=" width:900px">
-       	</td>
-        <td style="width:340px">
-        	<img src="/images/itm1.png"  style=" width:340px">
-        </td>
-         </tr>
-  </tbody>
-  </table>
-</div>
+
