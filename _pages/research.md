@@ -23,12 +23,15 @@ We have made such contributions:
     <table>
     <tbody>
     <tr>
-        <td style="width:900px">
-		<img src="/images/itm2.png" style=" width:900px">
-       	</td>
-        <td style="width:340px">
-        	<img src="/images/itm1.png"  style=" width:340px">
+	<td style="width:340px">
+        	<img src="/images/model.png"  style=" width:340px">
         </td>
+        <td style="width:600px">
+		<img src="/images/evo_p1.png" style=" width:600px">
+       	</td>
+	<td style="width:300px">
+		<img src="/images/aan.pdf" style=" width:300px">
+       	</td>
          </tr>
   </tbody>
   </table>
