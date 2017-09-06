@@ -29,14 +29,13 @@ We have made such contributions:
         <td style="width:600px">
 		<img src="/images/evo_p1.png" style=" width:600px">
        	</td>
-	<td style="width:300px">
-		<img src="/images/aan.pdf" style=" width:300px">
-       	</td>
          </tr>
   </tbody>
   </table>
 </div>
-
+<div>
+<img src="/images/aan.pdf" style=" width:300px">
+	</div>
 
 An Interactive Topic Model for academic recommendation
 ============
