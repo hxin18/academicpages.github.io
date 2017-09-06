@@ -19,24 +19,6 @@ We have made such contributions:
 * We visualised the evolution map of topic with gephi
 * Our model can also be applied to information retrival of academic papers.
 
-<div>
-    <table>
-    <tbody>
-    <tr>
-	<td>
-        	<img src="/images/model.png">
-        </td>
-        <td>
-		<img src="/images/evo_p1.png">
-       	</td>
-         </tr>
-  </tbody>
-  </table>
-</div>
-<div>
-<img src="/images/aan.pdf" style=" width:300px">
-	</div>
-
 An Interactive Topic Model for academic recommendation
 ============
 I worked to construct a topic-based model to recommend scientific publications.
