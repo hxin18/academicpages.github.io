@@ -40,10 +40,10 @@ We have made such contributions:
           </ul>
        	</td>
         <td style="width:340px">
-        	<img src="/images/itm1.png"  style="width:90%">
+        	<img src="/images/itm1.png"  style="display:block; width:90%">
         </td>
          </tr>
   </tbody>
   </table>
-  <tr><img src="/images/itm2.png" style="width:90%"></tr>
+  <tr><img src="/images/itm2.png" style="display:block; width:90%"></tr>
 </div>
