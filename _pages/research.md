@@ -32,7 +32,7 @@ We have made such contributions:
     <tbody>
     <tr>
         <td style="width:900px">
-		<img src="/images/itm1.png" style=" width:900px">
+		<img src="/images/itm2.png" style=" width:900px">
        	</td>
         <td style="width:340px">
         	<img src="/images/itm1.png"  style=" width:340px">
