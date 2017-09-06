@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /Research
 ---
+{% include base_path %}
 My current research is mainly focused on information diffusion in social network. 
 Previously I worked on developing topic-based methods for academic search and recommendation and visualzation of topic evolution, which are the theoretical part of our [Academic Search Engine](http://acemap.sjtu.edu.cn).
 
