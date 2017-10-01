@@ -49,4 +49,4 @@ In this data challenge, I utilized 19 features and build a boosting system to pr
 * Time gap
 I get the $f_1$ score of 0.9765
 
-More details can be seen [here](https://github.com/hxin18/hxin18.github.io/blob/master/files/report.pdf)
+More details can be seen [here](https://hxin18.github.io/files/report.pdf)
