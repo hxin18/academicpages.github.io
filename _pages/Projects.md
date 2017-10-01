@@ -22,7 +22,7 @@ In this project, we design prototype of a smart home system based on Raspburry P
           		</tr>
           	</tbody>
           </table>
-More details can be seen [here](https://github.com/hxin18/embedding_system-proj/blob/master/report.pdf)
+More details can be seen [here](https://hxin18.github.io/files/reportem.pdf)
 
 Link Prediction using Textual and Graphical Features
 ============
