@@ -56,4 +56,4 @@ We have made such contributions:
           	</tbody>
           </table>
 
-More details can be seen [here](https://github.com/hxin18/hxin18.github.io/blob/master/files/itm.pdf)
+More details can be seen [here](https://hxin18.github.io/files/itm.pdf)
