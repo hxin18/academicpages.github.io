@@ -22,10 +22,10 @@ In this project, we design prototype of a smart home system based on Raspburry P
           		</tr>
           	</tbody>
           </table>
-
+More details can be referred [here](https://github.com/hxin18/embedding_system-proj/blob/master/report.pdf)
 Link Prediction using Textual and Graphical Features
 ============
-In this project,we mainly focus on link prediction on the scholarly data. The dataset contains citation networks of 27770 documents with the information of title, abstract, authors and publish time. It is the same data using in [Prof. Xinbing Wang](http://iwct.sjtu.edu.cn/Personal/xwang8/index.html)
+In this project,we mainly focus on link prediction on the scholarly data. The dataset contains citation networks of 27770 documents with the information of title, abstract, authors and publish time. It is the same data using in [AXA Data Science Winter School : Tsinghua, Renmin and Ecole Polytechnique](https://www.kaggle.com/c/link-prediction-tu)
 
 In this data challenge, I utilized 19 features and build a boosting system to predict the citing probability. The 19 features are:
 * Topic representation selected by PLSA
@@ -47,3 +47,5 @@ In this data challenge, I utilized 19 features and build a boosting system to pr
 * Number of common author
 * Time gap
 I get the $f_1$ score of 0.9765
+More details can be referred [here](
+More details can be seen [here](https://github.com/hxin18/hxin18.github.io/blob/master/files/report.pdf))
