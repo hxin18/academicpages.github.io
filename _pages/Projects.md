@@ -25,4 +25,25 @@ In this project, we design prototype of a smart home system based on Raspburry P
 
 Link Prediction using Textual and Graphical Features
 ============
-In this project,we mainly focus on link prediction on the scholarly data. The dataset contains citation networks of 27770 documents with the information of title, abstract, authors and publish time. The intuition of the feature extraction is to simulate the way the scholar do when adding the citations to their academic works. Generally, when an author sellect the documents that he wants to cite, there are multiple factors to consider: the correspondance of textual content, the statue of cited documents in the citation network, etc. In the following sections, we will give a concrete description about the features that we select.
+In this project,we mainly focus on link prediction on the scholarly data. The dataset contains citation networks of 27770 documents with the information of title, abstract, authors and publish time. It is the same data using in [Prof. Xinbing Wang](http://iwct.sjtu.edu.cn/Personal/xwang8/index.html)
+
+In this data challenge, I utilized 19 features and build a boosting system to predict the citing probability. The 19 features are:
+* Topic representation selected by PLSA
+* Lsa representation of abstract
+* Lsa representation of topic
+* Tf-idf representation of abstract
+* Tf-idf representation of title
+* Tw-idf representation of title
+* Tw-idf representation of abstract
+* Number of common words in abstract
+* Number of common words in title
+* Community of papers
+* Pagerank score of cited paper
+* Pagerank score of citing paper
+* Clustering score of cited paper
+* Clustering score of citing paper
+* Degree of cited paper
+* Degree of citing paper
+* Number of common author
+* Time gap
+I get the $f_1$ score of 0.9765
