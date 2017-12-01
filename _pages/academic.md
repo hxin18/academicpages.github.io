@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 * B.S. in Information Engineering Shanghai Jiao Tong University, 2012~2016
-  * Overall GPA:84.7, Major GPA:89.2
-* M.Eng in Information Engineering Shanghai Jiao Tong University, 2016~
-  * Overall GPA:3.73/4
+  * Overall GPA:85, Computer Science Related Courses GPA:89.2
+* Exchange student at Telecom Paristech, 2016~2017
+  * Majoring in Data Science and Networking
 
 
 Courses
@@ -24,13 +24,13 @@ Courses
   * Embedding System: A-
   * Wireless Sensor Network: A-
 
-* Fall 2016(Graduate): 
+* Fall 2016(Graduate Courses at Telecom Paristech): 
   * Cellular Network: A+
   * Web-application: A
   * Statistics: A
-  * Mining Massive Data: A-
-  * Databases: A-
-  * IP Network: A-
+  * Mining Massive Data: A
+  * Databases: A
+  * IP Network: A
   
 * Academic Year 2015~2016: 
   * Computer Architecture: 98/100
