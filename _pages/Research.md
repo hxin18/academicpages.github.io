@@ -57,3 +57,14 @@ We have made such contributions:
           </table>
 
 More details can be seen [here](https://hxin18.github.io/files/itm.pdf)
+
+Ranking papers for different topics in Citation Network.
+============
+Discovering important papers in different academic topics is known as topic-sensitive influential paper discovery. Previous works mainly find the influential papers based on the structure of citation net- works but neglect the text information, while the text of documents gives a more precise description of topics. We conbined textual information to rank the papers and indentify the most important ones among them.
+
+We have made such contributions:
+* We conduct empirical observations on real-world dataset to summerize the factors that influence papers to cite.
+* We propose a new, robust model to generate the citation network with topic and the importance of papers
+* We achieve an improvement on the task of citation prediction and implement our model in academic recommendation.
+
+Paper has been submitted, more details will be released after the notification.
