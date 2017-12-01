@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xin HUANG's Home Page"
 title_separator          : "-"
 name                     : &name "Xin HUANG"
-description              : &description "Graduate Student at Shanghai Jiao Tong University"
+description              : &description "Graduate Student at University of Southern California"
 url                      : https://hxin18.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hxin18/hxin18.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Xin HUANG"
   avatar           : "profile.png"
-  bio              : "Second-year master student in Electrical Engineering"
+  bio              : "First-year Master Student in Computer Science"
   location         : "Shanghai"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
