@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Short Bio"
+title: "Home page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,7 +11,7 @@ I will be a master student in Computer Science in University of Southern Califor
 
 During my undergraduate studies, I was a research assistant at the Intelligent Internet of Things([IIoT](http://iiot.sjtu.edu.cn)) of SJTU and I am working under the guidance of [Prof. Xinbing Wang](http://iwct.sjtu.edu.cn/Personal/xwang8/index.html). 
 
-Currently, I am searching for research assistance position in Data Mining, Machine Learning or Natural Language Process.
+I am self-motivated to researches and projects in Data Mining, Machine Learning or Natural Language Process.
 
 
 
