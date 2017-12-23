@@ -47,6 +47,6 @@ In this data challenge, I utilized 19 features and build a boosting system to pr
 * Degree of citing paper
 * Number of common author
 * Time gap
-I get the $f_1$ score of 0.9765
+I get the f1 score of 0.9765
 
 More details can be seen [here](https://hxin18.github.io/files/report.pdf)
