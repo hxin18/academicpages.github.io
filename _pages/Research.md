@@ -22,7 +22,7 @@ We have made such contributions:
 * We propose a new, robust model to generate the citation network with topic and the importance of papers
 * We achieve an improvement on the task of citation prediction and implement our model in academic recommendation.
 
-Paper has been submitted, more details will be released after the notification.
+Paper has been accepted by PAKDD 18, more details will be released soon.
 
 Topic Evolution in Scholarly Big-data
 ============
