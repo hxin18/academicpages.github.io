@@ -11,7 +11,7 @@ I am a master student in Computer Science in University of Southern California i
 
 During my undergraduate studies, I was a research assistant at the Intelligent Internet of Things([IIoT](http://iiot.sjtu.edu.cn)) of SJTU and I am working under the guidance of [Prof. Xinbing Wang](http://iwct.sjtu.edu.cn/Personal/xwang8/index.html). 
 
-I am looking for summer interns in the field of software developpement and data mining/machine learning.
+I am looking for summer interns of software engineer and data engineer at 2019 Summer.
 
 
 
