@@ -22,7 +22,7 @@ We have made such contributions:
 * We propose a new, robust model to generate the citation network with topic and the importance of papers
 * We achieve an improvement on the task of citation prediction and implement our model in academic recommendation.
 
-Paper has been accepted by PAKDD 18, more details will be released soon.
+Paper: X. Huang, C. Chen, C. Peng, X. Wu, L. Fu and X. Wang, "Topic-sensitive Influential Paper Discovery in Citation Network", PAKDD 2018, Melbourne, Australia. [pdf](http://www.cs.sjtu.edu.cn/~fu-ly/paper/Topic-sensitive%20Influential%20Paper%20Dis.pdf)
 
 Topic Evolution in Scholarly Big-data
 ============
