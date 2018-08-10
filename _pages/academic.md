@@ -13,25 +13,16 @@ redirect_from:
   * Overall GPA:85, Computer Science Related Courses GPA:89.2
 * Exchange student at Telecom Paristech, 2016~2017
   * Majoring in Data Science and Networking
-* M.S. IN Computer Science at University of Southern California, 2016~2017
-  * 
+* M.S. in Computer Science at University of Southern California, 2016~2017
+  * GPA 4.0/4.0
 
 Courses
 ======
-* Spring 2017(Graduate): 
-  * Data Mining: A+
-  * Deep Learning: A
-  * Queueing Theory: A
-  * Embedding System: A-
-  * Wireless Sensor Network: A-
+* Spring 2018(Graduate): 
+  * Introduction to Algorithms: A
+  * Computer Networks: A
+  * Programming and System Design: A
 
-* Fall 2016(Graduate Courses at Telecom Paristech): 
-  * Cellular Network: A+
-  * Web-application: A
-  * Statistics: A
-  * Mining Massive Data: A
-  * Databases: A
-  * IP Network: A
   
 * Academic Year 2015~2016: 
   * Computer Architecture: 98/100
