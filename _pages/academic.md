@@ -13,7 +13,8 @@ redirect_from:
   * Overall GPA:85, Computer Science Related Courses GPA:89.2
 * Exchange student at Telecom Paristech, 2016~2017
   * Majoring in Data Science and Networking
-
+* M.S. IN Computer Science at University of Southern California, 2016~2017
+  * 
 
 Courses
 ======
