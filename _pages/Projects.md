@@ -4,6 +4,15 @@ title: "Selected Projects"
 permalink: /Projects/
 author_profile: true
 ---
+Distributed Lookup System
+============
+In this project, my contribution is consist of two parts
+* Implemented a distributed lookup system from scratch. It contains three backend databases, an intermediate
+server, a client and a monitor and established stream sockets to transmit queries and results among all devices.
+* Implemented the methods of exact matching, prefix matching and suffix matching for backend server.
+[code]{https://github.com/hxin18/distributed-lookup}
+
+
 Smart Home System using Rasperry Pi
 ============
 In this project, we design prototype of a smart home system based on Raspburry Pi. 
