@@ -4,6 +4,12 @@ title: "Selected Projects"
 permalink: /Projects/
 author_profile: true
 ---
+Weenix Operating System
+============
+Implemented kernel processes & thread, virtual file system, virtual memory of an operating system including but not limited to mutex lock, context switch and wait, path resolution, address spaces. Passed over 1000 tests on
+both kernel-level and user-level thread.
+[code](https://github.com/hxin18/402kernel)
+
 Distributed Lookup System
 ============
 In this project, my contribution is consist of two parts
