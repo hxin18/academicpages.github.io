@@ -11,15 +11,18 @@ I am a master student in Computer Science in University of Southern California i
 
 During my undergraduate studies, I was a research assistant at the Intelligent Internet of Things([IIoT](http://iiot.sjtu.edu.cn)) of SJTU and I am working under the guidance of [Prof. Xinbing Wang](http://iwct.sjtu.edu.cn/Personal/xwang8/index.html). 
 
-I am looking for summer interns of software engineer and data engineer at 2019 Summer.
+On 2019 Summer, I am fortunate to work as a software engineer intern at Hulu. #We are all hulugan!
+
+I am looking for entry level software engineer starting at 2020 January.
 
 
 
 
 Area of Interests
 ======
-My primary areas of interests in research mainly include:
-1. Social Network Analysis
+My primary areas of interests in mainly include:
+1. Backend Development
+1. Operating System
 1. Data Mining, especially Text Mining and Graph Mining
 1. Machine Learning
 
